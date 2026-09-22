@@ -1,4 +1,4 @@
-Customer Churn Prediction
+# Customer Churn Prediction
 Project Overview
 This project uses machine learning to predict customer churn based on customer demographic, service, contract, and billing information.
 The project includes data exploration, preprocessing, visualization, machine learning, hyperparameter tuning, and model evaluation.
